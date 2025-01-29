@@ -1,4 +1,4 @@
-# Pawz: Animal Adoption and Donation Website
+# Pawwwz: Animal Adoption and Donation Website
 
 Welcome to Pawz, a platform dedicated to the welfare of stray animals, with a focus on stray dogs. Originating from a WhatsApp group formed to care for the stray dogs on our campus, Pawz aims to expand its reach and impact through this website. Our mission is to ensure that every animal receives the care, love, and shelter they deserve.
 
